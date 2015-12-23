@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "Make Admin"; ObjectID = "DcQ-ly-MEs"; */
+"DcQ-ly-MEs.text" = "စီမံကြပ္ကဲသူအျဖစ္ေဆာင္ရြက္ျခင္း";
+
+/* Class = "IBUILabel"; text = "All your admin rights will now be transferred to ()"; ObjectID = "ien-0Y-uIg"; */
+"ien-0Y-uIg.text" = "သင္၏စီမံကြပ္ကဲမွဳအခြင္႔အေရးမ်ားကို () သို႔လႊဲေျပာင္းေပးပါလိမ့္မည္။";
+
+/* Class = "IBUIButton"; normalTitle = "Confirm"; ObjectID = "jOe-0F-DzM"; */
+"jOe-0F-DzM.normalTitle" = "အတည္ျပဳျခင္း";
+

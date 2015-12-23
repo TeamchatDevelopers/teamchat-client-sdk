@@ -1,0 +1,12 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "Sesión Cerrada";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "Puede que su cuenta haya sido inhabiliatada por el administrador del sistema. Por favor contacte con el adminstrador para más detalles.";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "Sesión Cerrada";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "wen-sr-Zeo"; */
+"wen-sr-Zeo.text" = "O";
+

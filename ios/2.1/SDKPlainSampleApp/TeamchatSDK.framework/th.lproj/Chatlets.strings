@@ -1,0 +1,24 @@
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "8d9-Ys-o3D"; */
+"8d9-Ys-o3D.title" = "ยกเลิก";
+
+/* Class = "IBUINavigationItem"; title = "Select Options"; ObjectID = "IOH-n1-xsa"; */
+"IOH-n1-xsa.title" = "เลือกตัวเลือก";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "P6l-8h-mm4"; */
+"P6l-8h-mm4.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Xb0-hw-M77"; */
+"Xb0-hw-M77.text" = "หัวข้อ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hd2-yb-08Y"; */
+"hd2-yb-08Y.text" = "ป้ายกำกับ";
+
+/* Class = "IBUIBarButtonItem"; title = "Post"; ObjectID = "ndt-ry-nei"; */
+"ndt-ry-nei.title" = "โพสต์";
+
+/* Class = "IBUINavigationItem"; title = "Chatlets"; ObjectID = "oVw-sV-m1g"; */
+"oVw-sV-m1g.title" = "Chatlet";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ty9-lK-miM"; */
+"ty9-lK-miM.text" = "หัวข้อ";
+

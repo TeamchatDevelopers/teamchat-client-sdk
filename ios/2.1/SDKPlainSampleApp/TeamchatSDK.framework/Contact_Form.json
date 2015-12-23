@@ -1,0 +1,37 @@
+{
+    "type": "primary",
+    "content": {
+        "media": [
+                  {
+                  "mtype": "contact",
+                  "contacts": [
+                               {
+                               "name": "contact-name1",
+                               "pl": "{\"name\":\"contact-name1\",\"email\":[{\"label\":\"work\",\"email\":\"email1\"},{\"label\":\"home\",\"email\":\"email2\"}],\"phone\":[{\"label\":\"work\",\"email\":\"1234567890\"},{\"label\":\"home\",\"email\":\"0987654321\"}]}"
+                               },
+                               {
+                               "name": "contact-name2",
+                               "pl": "{\"name\":\"contact-name2\",\"email\":[{\"label\":\"work\",\"email\":\"email1\"},{\"label\":\"home\",\"email\":\"email2\"}],\"phone\":[{\"label\":\"work\",\"email\":\"1234567890\"},{\"label\":\"home\",\"email\":\"0987654321\"}]}"
+                               }
+                               ]
+                  }
+                  ]
+    },
+    "xslt": "rmform-2.7.3",
+    "summdesc": {
+        "fields": []
+    },
+    "detailsLinkVisibility": "none",
+    "detdesc": {
+        "showcount": "false",
+        "fields": []
+    },
+    "actions": {
+        "actitem": []
+    },
+    "comments": {
+        "addcomment": "true"
+    },
+    "minCrv": "4",
+    "displayname": "Contact"
+}

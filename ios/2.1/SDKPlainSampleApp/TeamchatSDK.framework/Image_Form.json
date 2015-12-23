@@ -1,0 +1,37 @@
+{
+    "type": "primary",
+    "content": {
+        "media": [
+                  {
+                  "caption": "",
+                  "src": "",
+                  "fileName": "",
+                  "fileMime": "",
+                  "fileUrl": "",
+                  "fileId": "",
+                  "height": "",
+                  "width": "",
+                  "size": "",
+                  "preview": "",
+                  "mtype": "image/jpeg"
+                  }
+                  ]
+    },
+    "xslt": "rmform-2.7.3",
+    "summdesc": {
+        "fields": []
+    },
+    "detailsLinkVisibility": "none",
+    "detdesc": {
+        "showcount": "false",
+        "fields": []
+    },
+    "actions": {
+        "actitem": []
+    },
+    "comments": {
+        "addcomment": "true"
+    },
+    "minCrv": "4",
+    "displayname": "Photo"
+}

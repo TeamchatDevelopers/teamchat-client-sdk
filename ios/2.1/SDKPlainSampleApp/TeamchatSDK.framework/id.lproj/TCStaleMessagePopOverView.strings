@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Hs8-yD-yGZ"; */
+"Hs8-yD-yGZ.normalTitle" = "OKE";
+
+/* Class = "IBUIButton"; normalTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.normalTitle" = "Jangan tunjukkan lagi";
+
+/* Class = "IBUIButton"; selectedTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.selectedTitle" = "Jangan tunjukkan lagi";
+
+/* Class = "IBUILabel"; text = "This mark indicates that the chatlet has been updated. Click on new updates to check."; ObjectID = "fhQ-fe-aFr"; */
+"fhQ-fe-aFr.text" = "Tanda ini mengindikasikan bahwa chatlet telah diperbarui. Klik pada update baru untuk memeriksa.";
+

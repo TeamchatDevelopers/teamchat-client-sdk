@@ -1,0 +1,33 @@
+{
+    "type": "primary",
+    "content": {
+        "media": [
+                  {
+                  "fileName": "",
+                  "fileMime": "",
+                  "fileUrl": "",
+                  "fileId": "",
+                  "size": "",
+                  "preview": "",
+                  "mtype": "file"
+                  }
+                  ]
+    },
+    "xslt": "rmform-2.7.3",
+    "summdesc": {
+        "fields": []
+    },
+    "detailsLinkVisibility": "none",
+    "detdesc": {
+        "showcount": "false",
+        "fields": []
+    },
+    "actions": {
+        "actitem": []
+    },
+    "comments": {
+        "addcomment": "true"
+    },
+    "minCrv": "4",
+    "displayname": "File"
+}

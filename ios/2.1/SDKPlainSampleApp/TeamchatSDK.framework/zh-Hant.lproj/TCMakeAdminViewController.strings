@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "Make Admin"; ObjectID = "DcQ-ly-MEs"; */
+"DcQ-ly-MEs.text" = "讓管理員";
+
+/* Class = "IBUILabel"; text = "All your admin rights will now be transferred to ()"; ObjectID = "ien-0Y-uIg"; */
+"ien-0Y-uIg.text" = "所有你的管理許可權現在將轉移給()";
+
+/* Class = "IBUIButton"; normalTitle = "Confirm"; ObjectID = "jOe-0F-DzM"; */
+"jOe-0F-DzM.normalTitle" = "確認";
+

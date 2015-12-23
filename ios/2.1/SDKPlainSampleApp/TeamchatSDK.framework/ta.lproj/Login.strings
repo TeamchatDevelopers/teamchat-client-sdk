@@ -1,0 +1,84 @@
+/* Class = "IBUILabel"; text = "Get Started"; ObjectID = "8BV-ie-Nik"; */
+"8BV-ie-Nik.text" = "பயன்படுத்தத் தொடங்குங்கள்";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "AAE-2X-gKJ"; */
+"AAE-2X-gKJ.title" = "நிறைவடைந்தது";
+
+/* Class = "IBUILabel"; text = "Verification Code still not working ?"; ObjectID = "ACh-6C-qGT"; */
+"ACh-6C-qGT.text" = "உறுதிப்படுத்தல் குறியீட்டு எண் இன்னும் வேலை செய்யவில்லையா?";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "EQo-zF-maj"; */
+"EQo-zF-maj.text" = "தலைப்பு";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "JGA-I6-Du1"; */
+"JGA-I6-Du1.text" = "துணைத்தலைப்பு";
+
+/* Class = "IBUILabel"; text = "We've sent you a \\n verification code on your email"; ObjectID = "M8u-r1-snF"; */
+"M8u-r1-snF.text" = "நாங்கள் உங்களுக்கு ஒரு \\nஉறுதிப்படுத்தல் குறியீட்டு எண்ணை உங்களுடைய மின்னஞ்சலில் அனுப்பியுள்ளோம்";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MzN-Ru-rRG"; */
+"MzN-Ru-rRG.text" = "லேபிள்";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "Nbf-SB-TvT"; */
+"Nbf-SB-TvT.normalTitle" = "குறியீட்டு எண்ணை மீண்டும் அனுப்புக";
+
+/* Class = "IBUILabel"; text = ":("; ObjectID = "QTt-0M-T2J"; */
+"QTt-0M-T2J.text" = ":(";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Rcs-MV-G9E"; */
+"Rcs-MV-G9E.normalTitle" = "அடுத்து";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "Rmp-Gd-iLm"; */
+"Rmp-Gd-iLm.normalTitle" = "தனிநபர் கொள்கை";
+
+/* Class = "IBUILabel"; text = "The code might have expired or there could be some temporary problem. Please try again in some time"; ObjectID = "Seb-L0-KEj"; */
+"Seb-L0-KEj.text" = "குறியீட்டு எண் காலாவதியாகியிருக்கலாம் அல்லது வேறு தாற்காலிகப் பிரச்னை ஏதேனும் இருக்கலாம். சிறிது நேரம் கழித்து மீண்டும் முயற்சி செய்யவும்.";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "X9W-NJ-tQ8"; */
+"X9W-NJ-tQ8.normalTitle" = "உறுதிப்படுத்துக";
+
+/* Class = "IBUILabel"; text = "If you don't see it in your inbox, please also check other email folders (junk, social etc)"; ObjectID = "XlL-Y7-ifn"; */
+"XlL-Y7-ifn.text" = "நீங்கள் அதை உங்களுடைய இன்பாக்ஸில் காணவில்லை என்றால், தயவுசெய்து மற்ற மின்னஞ்சல் ஃபோல்டர்களில் தேடவும் (Junk, Social முதலியவை)";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "d8F-SB-s4o"; */
+"d8F-SB-s4o.normalTitle" = "நிபந்தனைகள் மற்றும் கட்டுப்பாடுகள்";
+
+/* Class = "IBUILabel"; text = "Please make sure the email address is typed correctly."; ObjectID = "gAx-Q8-PwB"; */
+"gAx-Q8-PwB.text" = "மின்னஞ்சல் முகவரி சரியாகத் தட்டச்சு செய்யப்பட்டிருப்பதை உறுதி செய்யுங்கள்.";
+
+/* Class = "IBUILabel"; text = "Enter it below"; ObjectID = "hrc-hP-h3o"; */
+"hrc-hP-h3o.text" = "அதனைக் கீழே தரவும்";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "iLj-5b-5Na"; */
+"iLj-5b-5Na.normalTitle" = "விதிமுறைகள் மற்றும் நிபந்தனைகள்";
+
+/* Class = "IBUIButton"; normalTitle = "GET STARTED"; ObjectID = "j2f-n5-pjB"; */
+"j2f-n5-pjB.normalTitle" = "பயன்படுத்தத் தொடங்குங்கள்";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "nNT-Uq-9hL"; */
+"nNT-Uq-9hL.normalTitle" = "தனிநபர் விவரக் கொள்கை";
+
+/* Class = "IBUIButton"; normalTitle = "Try Again"; ObjectID = "r6S-e4-9Om"; */
+"r6S-e4-9Om.normalTitle" = "மீண்டும் முயற்சி செய்யுங்கள்";
+
+/* Class = "IBUITextField"; placeholder = "Your work email"; ObjectID = "rZD-vY-pnD"; */
+"rZD-vY-pnD.placeholder" = "உங்களுடைய பணி மின்னஞ்சல்";
+
+/* Class = "IBUIButton"; normalTitle = "Wrong verification code"; ObjectID = "sz9-KL-dEb"; */
+"sz9-KL-dEb.normalTitle" = "தவறான உறுதிப்படுத்தல் குறியீட்டு எண்";
+
+/* Class = "IBUILabel"; text = "Verification"; ObjectID = "ucp-WZ-JEd"; */
+"ucp-WZ-JEd.text" = "உறுதிப்படுத்தல்";
+
+/* Class = "IBUINavigationItem"; title = "Select Environment"; ObjectID = "udG-z7-lH6"; */
+"udG-z7-lH6.title" = "சூழலைத் தேர்ந்தெடுக்க";
+
+/* Class = "IBUITextField"; placeholder = "Verification code"; ObjectID = "v5b-rX-qcw"; */
+"v5b-rX-qcw.placeholder" = "உறுதிப்படுத்தல் குறியீட்டு எண்";
+
+/* Class = "IBUILabel"; text = "xyz@abc.com"; ObjectID = "wIi-Iy-FyK"; */
+"wIi-Iy-FyK.text" = "xyz@abc.com";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "yKS-cD-PCJ"; */
+"yKS-cD-PCJ.title" = "ரத்து செய்க";
+

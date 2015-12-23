@@ -1,0 +1,177 @@
+/* Class = "IBUITextField"; placeholder = "Phone Number"; ObjectID = "0Hc-pt-RCr"; */
+"0Hc-pt-RCr.placeholder" = "Номер телефону";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "0XQ-zB-ZZX"; */
+"0XQ-zB-ZZX.text" = "Ім'я";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "2n2-EU-HlS"; */
+"2n2-EU-HlS.text" = "Адмін";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5wi-NY-AeY"; */
+"5wi-NY-AeY.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8QW-Y9-EsJ"; */
+"8QW-Y9-EsJ.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "9VF-q7-FGR"; */
+"9VF-q7-FGR.text" = "Код";
+
+/* Class = "IBUILabel"; text = "A code has been generated and sent as an SMS to the mobile no. registered with Teamchat."; ObjectID = "22p-8S-yhn"; */
+"22p-8S-yhn.text" = "Код був сформований і відправлений в по СМС на мобільний тел. зареєстрований командою чату.";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "A1w-02-xlG"; */
+"A1w-02-xlG.normalTitle" = "Редагувати Список користувачів";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CNH-Tx-QS1"; */
+"CNH-Tx-QS1.text" = "Позначка";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "Ce2-4F-4AN"; */
+"Ce2-4F-4AN.placeholder" = "Тільки адміністратор";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "Ckq-ov-nF7"; */
+"Ckq-ov-nF7.title" = "";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "Czh-cb-3vO"; */
+"Czh-cb-3vO.text" = "Електронна Пошта";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DPh-FZ-S53"; */
+"DPh-FZ-S53.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DUH-pn-0uV"; */
+"DUH-pn-0uV.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "GlH-tn-C96"; */
+"GlH-tn-C96.text" = "Зарееструйте номер телефону";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "J6a-4M-D2y"; */
+"J6a-4M-D2y.normalTitle" = "Кнопка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KAV-bd-GfY"; */
+"KAV-bd-GfY.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "MNy-zF-sQk"; */
+"MNy-zF-sQk.text" = "Почати розмову";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "Mwi-PY-8id"; */
+"Mwi-PY-8id.normalTitle" = "Редагувати Список користувачів";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "ORh-J7-Bbf"; */
+"ORh-J7-Bbf.text" = "Адміністратор групи";
+
+/* Class = "IBUILabel"; text = "Verify Your Phone"; ObjectID = "PXX-P6-Tba"; */
+"PXX-P6-Tba.text" = "Підтвердіть номер телефону";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "Paf-xd-SBS"; */
+"Paf-xd-SBS.normalTitle" = "Підтвердити";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "RBk-rZ-wG9"; */
+"RBk-rZ-wG9.text" = "Позначка";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Xkc-pY-Dpi"; */
+"Xkc-pY-Dpi.text" = "Ім'я";
+
+/* Class = "IBUITextField"; placeholder = "Enter Code"; ObjectID = "Y9r-oj-leX"; */
+"Y9r-oj-leX.placeholder" = "Введіть Код";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YNz-Ko-PQg"; */
+"YNz-Ko-PQg.text" = "Позначка";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "Ydd-tb-sdI"; */
+"Ydd-tb-sdI.normalTitle" = "Змінити";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Yfd-1r-Juh"; */
+"Yfd-1r-Juh.text" = "Позначка";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "Zdx-24-vAz"; */
+"Zdx-24-vAz.placeholder" = "Назва Групи";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "aAs-nD-Ygu"; */
+"aAs-nD-Ygu.normalTitle" = "Запросити код";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "aLK-CQ-1q2"; */
+"aLK-CQ-1q2.title" = "Налаштування";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "bHp-pX-pfX"; */
+"bHp-pX-pfX.text" = "Останні Chatlets з сервера";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "bRG-u0-p7D"; */
+"bRG-u0-p7D.text" = "Добавити номер телефону";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "bWg-jK-IO8"; */
+"bWg-jK-IO8.text" = "Номер телефону не добавлено";
+
+/* Class = "IBUINavigationItem"; title = "New Group"; ObjectID = "bbE-DM-UVK"; */
+"bbE-DM-UVK.title" = "Нова Група";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "bsk-ym-n97"; */
+"bsk-ym-n97.normalTitle" = "Змінити";
+
+/* Class = "IBUIButton"; normalTitle = "More Members"; ObjectID = "cOZ-F0-aZN"; */
+"cOZ-F0-aZN.normalTitle" = "Більше членів";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "cz7-RD-0Bv"; */
+"cz7-RD-0Bv.text" = "Видалити розмову і amp; Покинути";
+
+/* Class = "IBUIButton"; normalTitle = "Add Now"; ObjectID = "dTW-hR-nZh"; */
+"dTW-hR-nZh.normalTitle" = "Добавити зараз";
+
+/* Class = "IBUINavigationItem"; title = "Group Members"; ObjectID = "fje-bn-aiv"; */
+"fje-bn-aiv.title" = "Члени Групи";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "g6U-fu-7KZ"; */
+"g6U-fu-7KZ.placeholder" = "Введіть ім'я";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "h0n-D2-myl"; */
+"h0n-D2-myl.text" = "(За бажанням)";
+
+/* Class = "IBUILabel"; text = "Clear Conversation"; ObjectID = "i8x-Cd-BXd"; */
+"i8x-Cd-BXd.text" = "Зрозуміла розмова";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "jEC-11-pRB"; */
+"jEC-11-pRB.text" = "3";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "k7h-DD-seY"; */
+"k7h-DD-seY.text" = "Допоможіть Вашим контактам знайти Вас.";
+
+/* Class = "IBUINavigationItem"; title = "Select Country"; ObjectID = "kpF-a6-L8N"; */
+"kpF-a6-L8N.title" = "Виберіть Країну";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "l3A-p5-a5q"; */
+"l3A-p5-a5q.text" = "Електронна Пошта";
+
+/* Class = "IBUILabel"; text = "Register Your Phone"; ObjectID = "oPe-oD-ttT"; */
+"oPe-oD-ttT.text" = "Зарееструйте Ваш номер телефону";
+
+/* Class = "IBUILabel"; text = "Please enter the code received and verify your account."; ObjectID = "p4J-RF-e16"; */
+"p4J-RF-e16.text" = "Будь ласка, введіть отриманий код,і підтвердіть свій аккаунт.";
+
+/* Class = "IBUIButton"; normalTitle = "Make Admin"; ObjectID = "qIL-6A-Z1I"; */
+"qIL-6A-Z1I.normalTitle" = "Стати Адміністратором";
+
+/* Class = "IBUILabel"; text = "Name Label"; ObjectID = "qn6-d4-XvT"; */
+"qn6-d4-XvT.text" = "Назва Позначки";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "qy8-C4-SJU"; */
+"qy8-C4-SJU.normalTitle" = "Запросити";
+
+/* Class = "IBUILabel"; text = "0/20"; ObjectID = "rOz-w6-LXY"; */
+"rOz-w6-LXY.text" = "0/20";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "rgG-9i-cjt"; */
+"rgG-9i-cjt.text" = "Назва Країни";
+
+/* Class = "IBUIButton"; normalTitle = "Add More"; ObjectID = "s8j-8X-5s8"; */
+"s8j-8X-5s8.normalTitle" = "Більше користувачів";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "tCe-AM-35Q"; */
+"tCe-AM-35Q.text" = "Завантажити";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "wTp-f9-yAg"; */
+"wTp-f9-yAg.normalTitle" = "Редагувати список користувачів";
+
+/* Class = "IBUILabel"; text = "Add your phone number to your profile, so that your colleagues can find you faster."; ObjectID = "zPe-lM-wlA"; */
+"zPe-lM-wlA.text" = "Додати свій номер телефону в профіль, так що ваші колеги можуть знайти вас швидше.";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "zQz-q1-F8q"; */
+"zQz-q1-F8q.title" = "Я";
+

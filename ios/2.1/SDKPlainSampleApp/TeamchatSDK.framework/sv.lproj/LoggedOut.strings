@@ -1,0 +1,12 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "Utloggad";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "Ditt konto kan ha inaktiverats av din systemadministratör. Var vänlig hör med dem för mer information.";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "Utloggad";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "wen-sr-Zeo"; */
+"wen-sr-Zeo.text" = "ELLER";
+

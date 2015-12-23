@@ -1,0 +1,12 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "வெளியேறியாகிவிட்டது";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "உங்கள் கணக்கை உங்களுடைய அமைப்பு நிர்வாகி முடக்கியிருக்கலாம். அவர்களைத் தொடர்பு கொண்டு முழு விவரம் பெறலாம்.";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "வெளியேறியாகிவிட்டது";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "wen-sr-Zeo"; */
+"wen-sr-Zeo.text" = "அல்லது";
+

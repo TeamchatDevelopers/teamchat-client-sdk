@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "Configuring"; ObjectID = "6Fn-Dg-lzB"; */
+"6Fn-Dg-lzB.text" = "Konfigurerar";
+
+/* Class = "IBUILabel"; text = "Fetching XSLT"; ObjectID = "HEL-r4-zM5"; */
+"HEL-r4-zM5.text" = "Hämtar XSLT";
+
+/* Class = "IBUILabel"; text = "Please wait while we set up."; ObjectID = "dBN-vB-i1s"; */
+"dBN-vB-i1s.text" = "Var vänlig vänta medan vi förbereder.";
+

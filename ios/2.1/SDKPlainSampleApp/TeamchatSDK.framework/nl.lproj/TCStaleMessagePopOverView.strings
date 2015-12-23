@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Hs8-yD-yGZ"; */
+"Hs8-yD-yGZ.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.normalTitle" = "Mij niet opnieuw tonen";
+
+/* Class = "IBUIButton"; selectedTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.selectedTitle" = "mij niet opnieuw tonen";
+
+/* Class = "IBUILabel"; text = "This mark indicates that the chatlet has been updated. Click on new updates to check."; ObjectID = "fhQ-fe-aFr"; */
+"fhQ-fe-aFr.text" = "Deze markering geeft aan dat de Chatlet is bijgewerkt. Klik op nieuwe updates om te controleren.";
+

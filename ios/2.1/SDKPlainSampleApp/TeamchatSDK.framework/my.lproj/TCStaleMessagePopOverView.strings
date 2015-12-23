@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Hs8-yD-yGZ"; */
+"Hs8-yD-yGZ.normalTitle" = "သေဘာတူပါသည္";
+
+/* Class = "IBUIButton"; normalTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.normalTitle" = "ေနာက္ထပ္ျပန္မျပပါႏွင့္။";
+
+/* Class = "IBUIButton"; selectedTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.selectedTitle" = "ေနာက္ထပ္ျပန္မျပပါႏွင့္";
+
+/* Class = "IBUILabel"; text = "This mark indicates that the chatlet has been updated. Click on new updates to check."; ObjectID = "fhQ-fe-aFr"; */
+"fhQ-fe-aFr.text" = "၄င္းအမွတ္အသားသည္ စကားစျမီေျပာဆိုႏိုင္ခြင့္ကို ျပင္ဆင္ျဖည္႔စြက္ျပီးျဖစ္သည္။ အသစ္ျဖည္႔စြက္မွဳမ်ားကိုရွာေဖြယူႏိုင္ရန္ ခလုတ္ႏွိပ္ပါ။";
+

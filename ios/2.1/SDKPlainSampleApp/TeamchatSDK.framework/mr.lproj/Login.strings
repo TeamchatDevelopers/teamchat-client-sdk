@@ -1,0 +1,84 @@
+/* Class = "IBUILabel"; text = "Get Started"; ObjectID = "8BV-ie-Nik"; */
+"8BV-ie-Nik.text" = "प्रारंभ करा";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "AAE-2X-gKJ"; */
+"AAE-2X-gKJ.title" = "पूर्ण झाले";
+
+/* Class = "IBUILabel"; text = "Verification Code still not working ?"; ObjectID = "ACh-6C-qGT"; */
+"ACh-6C-qGT.text" = "सत्यापन संकेत अद्याप कार्य करत नाही?";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "EQo-zF-maj"; */
+"EQo-zF-maj.text" = "शीर्षक";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "JGA-I6-Du1"; */
+"JGA-I6-Du1.text" = "उपशीर्षक";
+
+/* Class = "IBUILabel"; text = "We've sent you a \\n verification code on your email"; ObjectID = "M8u-r1-snF"; */
+"M8u-r1-snF.text" = "आम्ही आपल्या ईमेलवर सत्यापन संकेत पाठविला आहे";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MzN-Ru-rRG"; */
+"MzN-Ru-rRG.text" = "संज्ञा";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "Nbf-SB-TvT"; */
+"Nbf-SB-TvT.normalTitle" = "संकेत पुन्हा पाठवा";
+
+/* Class = "IBUILabel"; text = ":("; ObjectID = "QTt-0M-T2J"; */
+"QTt-0M-T2J.text" = ":( ";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Rcs-MV-G9E"; */
+"Rcs-MV-G9E.normalTitle" = "पुढील";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "Rmp-Gd-iLm"; */
+"Rmp-Gd-iLm.normalTitle" = "गोपनीयता धोरण";
+
+/* Class = "IBUILabel"; text = "The code might have expired or there could be some temporary problem. Please try again in some time"; ObjectID = "Seb-L0-KEj"; */
+"Seb-L0-KEj.text" = "संकेत बहुधा कालबाह्य झाले असू शकते किंवा काही तात्पुरती समस्या असू शकते. काही वेळाने पुन्हा प्रयत्न करा";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "X9W-NJ-tQ8"; */
+"X9W-NJ-tQ8.normalTitle" = "सत्यापित करा";
+
+/* Class = "IBUILabel"; text = "If you don't see it in your inbox, please also check other email folders (junk, social etc)"; ObjectID = "XlL-Y7-ifn"; */
+"XlL-Y7-ifn.text" = "जर आपण तो संदेश आपल्या इनबॉक्समध्ये पाहू शकत नाही , तर इतर ई-मेल फोल्डर्स ( जंक , सामाजिक इत्यादी)  सुद्धा तपासून पहा";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "d8F-SB-s4o"; */
+"d8F-SB-s4o.normalTitle" = "अटी आणि शर्ती";
+
+/* Class = "IBUILabel"; text = "Please make sure the email address is typed correctly."; ObjectID = "gAx-Q8-PwB"; */
+"gAx-Q8-PwB.text" = "कृपया ई-मेल अड्रेस बरोबर लिहिला असल्याची खात्री करा.";
+
+/* Class = "IBUILabel"; text = "Enter it below"; ObjectID = "hrc-hP-h3o"; */
+"hrc-hP-h3o.text" = "तो खाली प्रविष्ट करा";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "iLj-5b-5Na"; */
+"iLj-5b-5Na.normalTitle" = "अटी व शर्ती";
+
+/* Class = "IBUIButton"; normalTitle = "GET STARTED"; ObjectID = "j2f-n5-pjB"; */
+"j2f-n5-pjB.normalTitle" = "प्रारंभ करा";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "nNT-Uq-9hL"; */
+"nNT-Uq-9hL.normalTitle" = "गोपनीयता धोरण";
+
+/* Class = "IBUIButton"; normalTitle = "Try Again"; ObjectID = "r6S-e4-9Om"; */
+"r6S-e4-9Om.normalTitle" = "पुन्हा प्रयत्न करा";
+
+/* Class = "IBUITextField"; placeholder = "Your work email"; ObjectID = "rZD-vY-pnD"; */
+"rZD-vY-pnD.placeholder" = "आपला कामकाजासाठीचा ईमेल";
+
+/* Class = "IBUIButton"; normalTitle = "Wrong verification code"; ObjectID = "sz9-KL-dEb"; */
+"sz9-KL-dEb.normalTitle" = "चुकीचा सत्यापन संकेत";
+
+/* Class = "IBUILabel"; text = "Verification"; ObjectID = "ucp-WZ-JEd"; */
+"ucp-WZ-JEd.text" = "सत्यापन";
+
+/* Class = "IBUINavigationItem"; title = "Select Environment"; ObjectID = "udG-z7-lH6"; */
+"udG-z7-lH6.title" = "आसपासची परिस्थिती निवडा";
+
+/* Class = "IBUITextField"; placeholder = "Verification code"; ObjectID = "v5b-rX-qcw"; */
+"v5b-rX-qcw.placeholder" = "सत्यापन संकेत";
+
+/* Class = "IBUILabel"; text = "xyz@abc.com"; ObjectID = "wIi-Iy-FyK"; */
+"wIi-Iy-FyK.text" = "xyz@abc.com";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "yKS-cD-PCJ"; */
+"yKS-cD-PCJ.title" = "रद्द करा";
+

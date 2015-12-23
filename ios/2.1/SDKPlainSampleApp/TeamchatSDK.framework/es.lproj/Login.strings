@@ -1,0 +1,72 @@
+/* Class = "IBUILabel"; text = "Get Started"; ObjectID = "8BV-ie-Nik"; */
+"8BV-ie-Nik.text" = "Comenzar";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "AAE-2X-gKJ"; */
+"AAE-2X-gKJ.title" = "Hecho";
+
+/* Class = "IBUILabel"; text = "Verification Code still not working ?"; ObjectID = "ACh-6C-qGT"; */
+"ACh-6C-qGT.text" = "¿Todavía no funciona el Código de Verificación?";
+
+/* Class = "IBUILabel"; text = "We've sent you a \\n verification code on your email"; ObjectID = "M8u-r1-snF"; */
+"M8u-r1-snF.text" = "Hemos enviado un \\n código de verificación a su email";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MzN-Ru-rRG"; */
+"MzN-Ru-rRG.text" = "Etiqueta";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "Nbf-SB-TvT"; */
+"Nbf-SB-TvT.normalTitle" = "Reenviar Código";
+
+/* Class = "IBUILabel"; text = ":("; ObjectID = "QTt-0M-T2J"; */
+"QTt-0M-T2J.text" = ":(";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Rcs-MV-G9E"; */
+"Rcs-MV-G9E.normalTitle" = "Siguiente";
+
+/* Class = "IBUILabel"; text = "The code might have expired or there could be some temporary problem. Please try again in some time"; ObjectID = "Seb-L0-KEj"; */
+"Seb-L0-KEj.text" = "Puede que el código haya expirado o puede que haya algún problema temporal. Por favor inténtelo de nuevo pasado un rato";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "X9W-NJ-tQ8"; */
+"X9W-NJ-tQ8.normalTitle" = "Verificar";
+
+/* Class = "IBUILabel"; text = "If you don't see it in your inbox, please also check other email folders (junk, social etc)"; ObjectID = "XlL-Y7-ifn"; */
+"XlL-Y7-ifn.text" = "Si no está en su bandeja de entrada, por favor compruebe las otras carpetas de su email (basura, social, etc)";
+
+/* Class = "IBUILabel"; text = "Please make sure the email address is typed correctly."; ObjectID = "gAx-Q8-PwB"; */
+"gAx-Q8-PwB.text" = "Por favor compruebe que la dirección de email está escrita correctamente.";
+
+/* Class = "IBUILabel"; text = "Enter it below"; ObjectID = "hrc-hP-h3o"; */
+"hrc-hP-h3o.text" = "Introducir abajo";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "iLj-5b-5Na"; */
+"iLj-5b-5Na.normalTitle" = "Términos & Condiciones";
+
+/* Class = "IBUIButton"; normalTitle = "GET STARTED"; ObjectID = "j2f-n5-pjB"; */
+"j2f-n5-pjB.normalTitle" = "COMENZAR";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "nNT-Uq-9hL"; */
+"nNT-Uq-9hL.normalTitle" = "Política de Privacidad";
+
+/* Class = "IBUIButton"; normalTitle = "Try Again"; ObjectID = "r6S-e4-9Om"; */
+"r6S-e4-9Om.normalTitle" = "Intentar de nuevo";
+
+/* Class = "IBUITextField"; placeholder = "Your work email"; ObjectID = "rZD-vY-pnD"; */
+"rZD-vY-pnD.placeholder" = "Email del trabajo";
+
+/* Class = "IBUIButton"; normalTitle = "Wrong verification code"; ObjectID = "sz9-KL-dEb"; */
+"sz9-KL-dEb.normalTitle" = "Código de verificación erróneo";
+
+/* Class = "IBUILabel"; text = "Verification"; ObjectID = "ucp-WZ-JEd"; */
+"ucp-WZ-JEd.text" = "Verificación";
+
+/* Class = "IBUINavigationItem"; title = "Select Environment"; ObjectID = "udG-z7-lH6"; */
+"udG-z7-lH6.title" = "Seleccionar Entorno";
+
+/* Class = "IBUITextField"; placeholder = "Verification code"; ObjectID = "v5b-rX-qcw"; */
+"v5b-rX-qcw.placeholder" = "Código de verificación";
+
+/* Class = "IBUILabel"; text = "xyz@abc.com"; ObjectID = "wIi-Iy-FyK"; */
+"wIi-Iy-FyK.text" = "xyz@abc.com";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "yKS-cD-PCJ"; */
+"yKS-cD-PCJ.title" = "Cancelar";
+

@@ -1,0 +1,84 @@
+/* Class = "IBUILabel"; text = "Get Started"; ObjectID = "8BV-ie-Nik"; */
+"8BV-ie-Nik.text" = "Mulai";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "AAE-2X-gKJ"; */
+"AAE-2X-gKJ.title" = "Selesai";
+
+/* Class = "IBUILabel"; text = "Verification Code still not working ?"; ObjectID = "ACh-6C-qGT"; */
+"ACh-6C-qGT.text" = "Kode Verifikasi masih tidak bekerja?";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "EQo-zF-maj"; */
+"EQo-zF-maj.text" = "Judul";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "JGA-I6-Du1"; */
+"JGA-I6-Du1.text" = "Subjudul";
+
+/* Class = "IBUILabel"; text = "We've sent you a \\n verification code on your email"; ObjectID = "M8u-r1-snF"; */
+"M8u-r1-snF.text" = "Kami telah mengirimkan \\n kode verifikasi ke email Anda";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MzN-Ru-rRG"; */
+"MzN-Ru-rRG.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "Nbf-SB-TvT"; */
+"Nbf-SB-TvT.normalTitle" = "Kirim Kembali Kode";
+
+/* Class = "IBUILabel"; text = ":("; ObjectID = "QTt-0M-T2J"; */
+"QTt-0M-T2J.text" = ":(";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Rcs-MV-G9E"; */
+"Rcs-MV-G9E.normalTitle" = "Berikutnya";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "Rmp-Gd-iLm"; */
+"Rmp-Gd-iLm.normalTitle" = "Kebijakan Privasi";
+
+/* Class = "IBUILabel"; text = "The code might have expired or there could be some temporary problem. Please try again in some time"; ObjectID = "Seb-L0-KEj"; */
+"Seb-L0-KEj.text" = "Kode tersebut mungkin telah kedaluwarsa atau terjadi masalah sementara. Harap coba lagi dalam beberapa saat";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "X9W-NJ-tQ8"; */
+"X9W-NJ-tQ8.normalTitle" = "Verifikasikan";
+
+/* Class = "IBUILabel"; text = "If you don't see it in your inbox, please also check other email folders (junk, social etc)"; ObjectID = "XlL-Y7-ifn"; */
+"XlL-Y7-ifn.text" = "Jika Anda tidak melihatnya di kotak masuk, harap cek folder email lain (junk, social dll)";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "d8F-SB-s4o"; */
+"d8F-SB-s4o.normalTitle" = "Syarat & Ketentuan";
+
+/* Class = "IBUILabel"; text = "Please make sure the email address is typed correctly."; ObjectID = "gAx-Q8-PwB"; */
+"gAx-Q8-PwB.text" = "Harap pastikan alamat email ditulis dengan benar.";
+
+/* Class = "IBUILabel"; text = "Enter it below"; ObjectID = "hrc-hP-h3o"; */
+"hrc-hP-h3o.text" = "Masukkan kode di bawah ini";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "iLj-5b-5Na"; */
+"iLj-5b-5Na.normalTitle" = "Syarat & Ketentuan";
+
+/* Class = "IBUIButton"; normalTitle = "GET STARTED"; ObjectID = "j2f-n5-pjB"; */
+"j2f-n5-pjB.normalTitle" = "MULAI";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "nNT-Uq-9hL"; */
+"nNT-Uq-9hL.normalTitle" = "Kebijakan Privasi";
+
+/* Class = "IBUIButton"; normalTitle = "Try Again"; ObjectID = "r6S-e4-9Om"; */
+"r6S-e4-9Om.normalTitle" = "Coba Lagi";
+
+/* Class = "IBUITextField"; placeholder = "Your work email"; ObjectID = "rZD-vY-pnD"; */
+"rZD-vY-pnD.placeholder" = "Email kerja Anda";
+
+/* Class = "IBUIButton"; normalTitle = "Wrong verification code"; ObjectID = "sz9-KL-dEb"; */
+"sz9-KL-dEb.normalTitle" = "Kode verifikasi salah";
+
+/* Class = "IBUILabel"; text = "Verification"; ObjectID = "ucp-WZ-JEd"; */
+"ucp-WZ-JEd.text" = "Verifikasi";
+
+/* Class = "IBUINavigationItem"; title = "Select Environment"; ObjectID = "udG-z7-lH6"; */
+"udG-z7-lH6.title" = "Pilih Lingkungan";
+
+/* Class = "IBUITextField"; placeholder = "Verification code"; ObjectID = "v5b-rX-qcw"; */
+"v5b-rX-qcw.placeholder" = "Kode verifikasi";
+
+/* Class = "IBUILabel"; text = "xyz@abc.com"; ObjectID = "wIi-Iy-FyK"; */
+"wIi-Iy-FyK.text" = "xyz@abc.com";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "yKS-cD-PCJ"; */
+"yKS-cD-PCJ.title" = "Batalkan";
+

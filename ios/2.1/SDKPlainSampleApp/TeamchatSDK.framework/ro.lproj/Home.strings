@@ -1,0 +1,282 @@
+/* Class = "IBUITextField"; placeholder = "Phone Number"; ObjectID = "0Hc-pt-RCr"; */
+"0Hc-pt-RCr.placeholder" = "Număr de telefon";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "0XQ-zB-ZZX"; */
+"0XQ-zB-ZZX.text" = "Nume";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "3Nh-ec-AMP"; */
+"3Nh-ec-AMP.text" = "Numărul de telefon nu a fost adăugat";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "3fR-9e-UBB"; */
+"3fR-9e-UBB.placeholder" = "Numele grupului";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4Rw-kv-kHh"; */
+"4Rw-kv-kHh.text" = "Etichetă";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "5pb-TD-GU7"; */
+"5pb-TD-GU7.normalTitle" = "Invită";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5wi-NY-AeY"; */
+"5wi-NY-AeY.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8QW-Y9-EsJ"; */
+"8QW-Y9-EsJ.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "9VF-q7-FGR"; */
+"9VF-q7-FGR.text" = "Cod";
+
+/* Class = "IBUILabel"; text = "Add Image"; ObjectID = "17J-ca-Tfh"; */
+"17J-ca-Tfh.text" = "Adaugă imagine";
+
+/* Class = "IBUILabel"; text = "A code has been generated and sent as an SMS to the mobile no. registered with Teamchat."; ObjectID = "22p-8S-yhn"; */
+"22p-8S-yhn.text" = "Un cod a fost generat şi a fost trimis pe numărul de telefon. Înregistrează-te pe Teamchat.";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "41s-Ch-w9b"; */
+"41s-Ch-w9b.text" = "Admin";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "A1w-02-xlG"; */
+"A1w-02-xlG.normalTitle" = "Editează membri";
+
+/* Class = "IBUITextField"; placeholder = "Hide member info"; ObjectID = "Bip-FO-Bdy"; */
+"Bip-FO-Bdy.placeholder" = "Memorează informaţiile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CNH-Tx-QS1"; */
+"CNH-Tx-QS1.text" = "Etichetă";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "Ce2-4F-4AN"; */
+"Ce2-4F-4AN.placeholder" = "Doar administratorii";
+
+/* Class = "IBUILabel"; text = "Add Image"; ObjectID = "DPV-gr-5Ff"; */
+"DPV-gr-5Ff.text" = "Adaugă imagine";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DPh-FZ-S53"; */
+"DPh-FZ-S53.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DUH-pn-0uV"; */
+"DUH-pn-0uV.text" = "Etichetă";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "GO8-eZ-Olq"; */
+"GO8-eZ-Olq.normalTitle" = "Reîncearcă";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "GlH-tn-C96"; */
+"GlH-tn-C96.text" = "Înregistrează numărul de telefon";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "Gpu-c9-vGk"; */
+"Gpu-c9-vGk.text" = "Numele ţării";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "HVU-m5-66c"; */
+"HVU-m5-66c.normalTitle" = "Schimbă";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "HuR-5n-Vr0"; */
+"HuR-5n-Vr0.text" = "Adminul grupului";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "J6a-4M-D2y"; */
+"J6a-4M-D2y.normalTitle" = "Buton";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "Jf1-df-raa"; */
+"Jf1-df-raa.normalTitle" = "Reîncearcă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KAV-bd-GfY"; */
+"KAV-bd-GfY.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KyB-9e-Usc"; */
+"KyB-9e-Usc.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "MNy-zF-sQk"; */
+"MNy-zF-sQk.text" = "Începe conversaţia";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "Mwi-PY-8id"; */
+"Mwi-PY-8id.normalTitle" = "Editează membrii";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "ORh-J7-Bbf"; */
+"ORh-J7-Bbf.text" = "Adminul grupului";
+
+/* Class = "IBUILabel"; text = "Verify Your Phone"; ObjectID = "PXX-P6-Tba"; */
+"PXX-P6-Tba.text" = "Verifică numărul de telefon";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "Paf-xd-SBS"; */
+"Paf-xd-SBS.normalTitle" = "Verifică";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "PoN-PS-kFr"; */
+"PoN-PS-kFr.text" = "Nume";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Qp2-W1-Uqa"; */
+"Qp2-W1-Uqa.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "RBk-rZ-wG9"; */
+"RBk-rZ-wG9.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "T2V-d9-TqV"; */
+"T2V-d9-TqV.text" = "Etichetă";
+
+/* Class = "IBUITextField"; text = "text"; ObjectID = "Vtx-eD-9Qd"; */
+"Vtx-eD-9Qd.text" = "Text";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "XHK-E4-KWg"; */
+"XHK-E4-KWg.text" = "(Optional)";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Xkc-pY-Dpi"; */
+"Xkc-pY-Dpi.text" = "Nume";
+
+/* Class = "IBUITextField"; placeholder = "Enter Code"; ObjectID = "Y9r-oj-leX"; */
+"Y9r-oj-leX.placeholder" = "Scrie codul";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YNz-Ko-PQg"; */
+"YNz-Ko-PQg.text" = "Etichetă";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "Ydd-tb-sdI"; */
+"Ydd-tb-sdI.normalTitle" = "Schimbă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Yfd-1r-Juh"; */
+"Yfd-1r-Juh.text" = "Etichetă";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "ZFR-Yo-PAA"; */
+"ZFR-Yo-PAA.title" = "Eu";
+
+/* Class = "IBUITextField"; placeholder = "Hide member info"; ObjectID = "ZOw-OY-nW9"; */
+"ZOw-OY-nW9.placeholder" = "Ascunde informaţiile membrului";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "Zdx-24-vAz"; */
+"Zdx-24-vAz.placeholder" = "Numele grupului";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "a3c-jc-jcW"; */
+"a3c-jc-jcW.text" = "Etichetă";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "aAs-nD-Ygu"; */
+"aAs-nD-Ygu.normalTitle" = "Retrimite codul";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "aHN-JH-Lyc"; */
+"aHN-JH-Lyc.text" = "Codul";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "aLK-CQ-1q2"; */
+"aLK-CQ-1q2.title" = "Setări";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "bHp-pX-pfX"; */
+"bHp-pX-pfX.text" = "Cele mai recente chat-uri de pe server";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "bRG-u0-p7D"; */
+"bRG-u0-p7D.text" = "Adaugă număr de telefon";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "bWg-jK-IO8"; */
+"bWg-jK-IO8.text" = "Numărul de telefon nu a fost adăugat";
+
+/* Class = "IBUINavigationItem"; title = "New Group"; ObjectID = "bbE-DM-UVK"; */
+"bbE-DM-UVK.title" = "Grup nou";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "bsk-ym-n97"; */
+"bsk-ym-n97.normalTitle" = "Schimbă";
+
+/* Class = "IBUIButton"; normalTitle = "More Members"; ObjectID = "cOZ-F0-aZN"; */
+"cOZ-F0-aZN.normalTitle" = "Mai mulţi membrii";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "cz7-RD-0Bv"; */
+"cz7-RD-0Bv.text" = "Şterge conversaţia şi pleacă";
+
+/* Class = "IBUIButton"; normalTitle = "Add Now"; ObjectID = "dTW-hR-nZh"; */
+"dTW-hR-nZh.normalTitle" = "Adaugă acum";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "e0O-Ad-hGU"; */
+"e0O-Ad-hGU.text" = "Şterge conversaţia şi pleacă";
+
+/* Class = "IBUINavigationItem"; title = "Group Members"; ObjectID = "fje-bn-aiv"; */
+"fje-bn-aiv.title" = "Membrii grupului";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "g6U-fu-7KZ"; */
+"g6U-fu-7KZ.placeholder" = "Introduceţi numele";
+
+/* Class = "IBUITextField"; placeholder = "Type here to add manually"; ObjectID = "gUN-Y1-gVk"; */
+"gUN-Y1-gVk.placeholder" = "Scrie aici ca să adaugi manual";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "h0n-D2-myl"; */
+"h0n-D2-myl.text" = "(opţional)";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hK7-nJ-TsP"; */
+"hK7-nJ-TsP.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Clear Conversation"; ObjectID = "i8x-Cd-BXd"; */
+"i8x-Cd-BXd.text" = "Ştergere conversaţie";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "k7h-DD-seY"; */
+"k7h-DD-seY.text" = "Ajută-ţi contactele să te găsească";
+
+/* Class = "IBUINavigationItem"; title = "Select Country"; ObjectID = "kpF-a6-L8N"; */
+"kpF-a6-L8N.title" = "Selectare ţară";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "kur-Mf-oQp"; */
+"kur-Mf-oQp.text" = "Descărcare";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "l3A-p5-a5q"; */
+"l3A-p5-a5q.text" = "Email";
+
+/* Class = "IBUIBarButtonItem"; title = "Select"; ObjectID = "lig-ga-kh5"; */
+"lig-ga-kh5.title" = "Selectare";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "lph-OI-rGh"; */
+"lph-OI-rGh.normalTitle" = "Schimbă";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "mah-ti-C5D"; */
+"mah-ti-C5D.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "oML-Vs-Xmp"; */
+"oML-Vs-Xmp.text" = "Ajută-ţi contactele să te găsească";
+
+/* Class = "IBUILabel"; text = "Register Your Phone"; ObjectID = "oPe-oD-ttT"; */
+"oPe-oD-ttT.text" = "Înregistrare număr de telefon";
+
+/* Class = "IBUILabel"; text = "Please enter the code received and verify your account."; ObjectID = "p4J-RF-e16"; */
+"p4J-RF-e16.text" = "Vă rugăm să introduceţi codul primit şi verificaţi contul";
+
+/* Class = "IBUIButton"; normalTitle = "Make Admin"; ObjectID = "qIL-6A-Z1I"; */
+"qIL-6A-Z1I.normalTitle" = "Creare administator";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qLJ-hV-yR2"; */
+"qLJ-hV-yR2.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "qia-Qz-2EM"; */
+"qia-Qz-2EM.text" = "Adaugă număr de telefon";
+
+/* Class = "IBUILabel"; text = "Name Label"; ObjectID = "qn6-d4-XvT"; */
+"qn6-d4-XvT.text" = "Eticheta de nume";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "qy8-C4-SJU"; */
+"qy8-C4-SJU.normalTitle" = "invită";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "rYa-e4-XeU"; */
+"rYa-e4-XeU.placeholder" = "Doar pentru administratori";
+
+/* Class = "IBUILabel"; text = "Clear Conversation"; ObjectID = "rb7-9j-nry"; */
+"rb7-9j-nry.text" = "Şterge conversaţia";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "rgG-9i-cjt"; */
+"rgG-9i-cjt.text" = "Numele ţării";
+
+/* Class = "IBUIButton"; normalTitle = "Add More"; ObjectID = "s8j-8X-5s8"; */
+"s8j-8X-5s8.normalTitle" = "Adaugă mai multe";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "sIP-cj-n7d"; */
+"sIP-cj-n7d.text" = "Înregistrare număr de telefon";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "sqr-DA-qGd"; */
+"sqr-DA-qGd.text" = "Începe conversaţia";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "tCe-AM-35Q"; */
+"tCe-AM-35Q.text" = "Descărcare";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "uj5-z3-xNL"; */
+"uj5-z3-xNL.text" = "Cele mai recente cha-uri de pe server";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "wTp-f9-yAg"; */
+"wTp-f9-yAg.normalTitle" = "Editare membrii";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "x1t-ww-Blw"; */
+"x1t-ww-Blw.placeholder" = "introduceţi numele";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "yCC-9j-R7D"; */
+"yCC-9j-R7D.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Add your phone number to your profile, so that your colleagues can find you faster."; ObjectID = "zPe-lM-wlA"; */
+"zPe-lM-wlA.text" = "Adaugă numărul de telefon la profil, pentru a putea fi găsit mai uşor";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "zQz-q1-F8q"; */
+"zQz-q1-F8q.title" = "Eu";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "Thoát ra";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "Tài khoản của bạn có thể đã bị quản trị viên hệ thống của bạn vô hiệu hóa. Hãy kiểm tra với họ để biết thêm chi tiết.";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "Thoát ra";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "wen-sr-Zeo"; */
+"wen-sr-Zeo.text" = "HOẶC";
+

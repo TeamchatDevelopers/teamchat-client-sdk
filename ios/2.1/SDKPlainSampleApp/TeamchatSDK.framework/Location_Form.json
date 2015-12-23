@@ -1,0 +1,32 @@
+{
+    "type": "primary",
+    "content": {
+        "media": [
+                  {
+                  "lat": "",
+                  "lng": "",
+                  "accuracy": "",
+                  "provider": "",
+                  "locName": "",
+                  "mtype": "location"
+                  }
+                  ]
+    },
+    "xslt": "rmform-2.7.3",
+    "summdesc": {
+        "fields": []
+    },
+    "detailsLinkVisibility": "none",
+    "detdesc": {
+        "showcount": "false",
+        "fields": []
+    },
+    "actions": {
+        "actitem": []
+    },
+    "comments": {
+        "addcomment": "true"
+    },
+    "minCrv": "4",
+    "displayname": "Location"
+}

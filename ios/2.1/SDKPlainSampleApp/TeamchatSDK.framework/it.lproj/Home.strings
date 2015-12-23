@@ -1,0 +1,306 @@
+/* Class = "IBUITextField"; placeholder = "Phone Number"; ObjectID = "0Hc-pt-RCr"; */
+"0Hc-pt-RCr.placeholder" = "Numero di telefono";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "0XQ-zB-ZZX"; */
+"0XQ-zB-ZZX.text" = "Nome";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "2h5-gF-nym"; */
+"2h5-gF-nym.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "2n2-EU-HlS"; */
+"2n2-EU-HlS.text" = "Amministratore";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "3Nh-ec-AMP"; */
+"3Nh-ec-AMP.text" = "Numero di telefono non aggiunto";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "3fR-9e-UBB"; */
+"3fR-9e-UBB.placeholder" = "Nome gruppo";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4Rw-kv-kHh"; */
+"4Rw-kv-kHh.text" = "Etichetta";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "5pb-TD-GU7"; */
+"5pb-TD-GU7.normalTitle" = "Invita";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5wi-NY-AeY"; */
+"5wi-NY-AeY.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8QW-Y9-EsJ"; */
+"8QW-Y9-EsJ.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "9VF-q7-FGR"; */
+"9VF-q7-FGR.text" = "Codice";
+
+/* Class = "IBUILabel"; text = "Add Image"; ObjectID = "17J-ca-Tfh"; */
+"17J-ca-Tfh.text" = "Aggiungi immagine";
+
+/* Class = "IBUILabel"; text = "A code has been generated and sent as an SMS to the mobile no. registered with Teamchat."; ObjectID = "22p-8S-yhn"; */
+"22p-8S-yhn.text" = "Un codice è stato generato ed inviato via SMS al numero di cellulare registrato su TeamChat.";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "41s-Ch-w9b"; */
+"41s-Ch-w9b.text" = "Amministratore";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "A1w-02-xlG"; */
+"A1w-02-xlG.normalTitle" = "Modifica membri";
+
+/* Class = "IBUITextField"; placeholder = "Hide member info"; ObjectID = "Bip-FO-Bdy"; */
+"Bip-FO-Bdy.placeholder" = "Nascondi membro";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CNH-Tx-QS1"; */
+"CNH-Tx-QS1.text" = "Etichetta";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "Ce2-4F-4AN"; */
+"Ce2-4F-4AN.placeholder" = "Solo Amministratore";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "Ckq-ov-nF7"; */
+"Ckq-ov-nF7.title" = "";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "Czh-cb-3vO"; */
+"Czh-cb-3vO.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Add Image"; ObjectID = "DPV-gr-5Ff"; */
+"DPV-gr-5Ff.text" = "Aggiungi immagine";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DPh-FZ-S53"; */
+"DPh-FZ-S53.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DUH-pn-0uV"; */
+"DUH-pn-0uV.text" = "Etichetta";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "GO8-eZ-Olq"; */
+"GO8-eZ-Olq.normalTitle" = "Riprova";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "GlH-tn-C96"; */
+"GlH-tn-C96.text" = "Registra numero di telefono";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "Gpu-c9-vGk"; */
+"Gpu-c9-vGk.text" = "Nome paese";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "HVU-m5-66c"; */
+"HVU-m5-66c.normalTitle" = "Cambia";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "HuR-5n-Vr0"; */
+"HuR-5n-Vr0.text" = "Amministratore gruppo";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "J6a-4M-D2y"; */
+"J6a-4M-D2y.normalTitle" = "Tasto";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "Jf1-df-raa"; */
+"Jf1-df-raa.normalTitle" = "Riprova";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KAV-bd-GfY"; */
+"KAV-bd-GfY.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KyB-9e-Usc"; */
+"KyB-9e-Usc.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "MNy-zF-sQk"; */
+"MNy-zF-sQk.text" = "Inizia conversazione";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "Mwi-PY-8id"; */
+"Mwi-PY-8id.normalTitle" = "Modifica membri";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "ORh-J7-Bbf"; */
+"ORh-J7-Bbf.text" = "Gruppo Amministratore";
+
+/* Class = "IBUILabel"; text = "Verify Your Phone"; ObjectID = "PXX-P6-Tba"; */
+"PXX-P6-Tba.text" = "Verifica il tuo telefono";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "Paf-xd-SBS"; */
+"Paf-xd-SBS.normalTitle" = "Verifica";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "PoN-PS-kFr"; */
+"PoN-PS-kFr.text" = "Nome";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Qp2-W1-Uqa"; */
+"Qp2-W1-Uqa.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "RBk-rZ-wG9"; */
+"RBk-rZ-wG9.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "T2V-d9-TqV"; */
+"T2V-d9-TqV.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "UUO-Cf-c9b"; */
+"UUO-Cf-c9b.text" = "Etichetta";
+
+/* Class = "IBUITextField"; text = "text"; ObjectID = "Vtx-eD-9Qd"; */
+"Vtx-eD-9Qd.text" = "testo";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "XHK-E4-KWg"; */
+"XHK-E4-KWg.text" = " (Opzionale) ";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Xkc-pY-Dpi"; */
+"Xkc-pY-Dpi.text" = "Nome";
+
+/* Class = "IBUITextField"; placeholder = "Enter Code"; ObjectID = "Y9r-oj-leX"; */
+"Y9r-oj-leX.placeholder" = "Inserisci codice";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YNz-Ko-PQg"; */
+"YNz-Ko-PQg.text" = "Etichetta";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "Ydd-tb-sdI"; */
+"Ydd-tb-sdI.normalTitle" = "Cambia";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Yfd-1r-Juh"; */
+"Yfd-1r-Juh.text" = "Etichetta";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "ZFR-Yo-PAA"; */
+"ZFR-Yo-PAA.title" = "Io";
+
+/* Class = "IBUITextField"; placeholder = "Hide member info"; ObjectID = "ZOw-OY-nW9"; */
+"ZOw-OY-nW9.placeholder" = "Nascondi informazioni membro";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "Zdx-24-vAz"; */
+"Zdx-24-vAz.placeholder" = "Nome gruppo";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "a3c-jc-jcW"; */
+"a3c-jc-jcW.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "0/20"; ObjectID = "aAh-Jh-A2N"; */
+"aAh-Jh-A2N.text" = "0/20";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "aAs-nD-Ygu"; */
+"aAs-nD-Ygu.normalTitle" = "Rinvia codice";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "aHN-JH-Lyc"; */
+"aHN-JH-Lyc.text" = "Codice";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "aLK-CQ-1q2"; */
+"aLK-CQ-1q2.title" = "Impostazioni";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "bHp-pX-pfX"; */
+"bHp-pX-pfX.text" = "Gli ultimi Chatlet dal server";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "bRG-u0-p7D"; */
+"bRG-u0-p7D.text" = "Aggiungi numero di telefono";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "bWg-jK-IO8"; */
+"bWg-jK-IO8.text" = "Numero di telefono non aggiunto";
+
+/* Class = "IBUINavigationItem"; title = "New Group"; ObjectID = "bbE-DM-UVK"; */
+"bbE-DM-UVK.title" = "Nuovo gruppo";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "bsk-ym-n97"; */
+"bsk-ym-n97.normalTitle" = "Cambia";
+
+/* Class = "IBUIButton"; normalTitle = "More Members"; ObjectID = "cOZ-F0-aZN"; */
+"cOZ-F0-aZN.normalTitle" = "Altri membri";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "cz7-RD-0Bv"; */
+"cz7-RD-0Bv.text" = "Elimina conversazione & esci";
+
+/* Class = "IBUIButton"; normalTitle = "Add Now"; ObjectID = "dTW-hR-nZh"; */
+"dTW-hR-nZh.normalTitle" = "Aggiungi ora";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "e0O-Ad-hGU"; */
+"e0O-Ad-hGU.text" = "Elimina conversazione & abbandona";
+
+/* Class = "IBUINavigationItem"; title = "Group Members"; ObjectID = "fje-bn-aiv"; */
+"fje-bn-aiv.title" = "Membri gruppo";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "g6U-fu-7KZ"; */
+"g6U-fu-7KZ.placeholder" = "Inserisci il tuo nome";
+
+/* Class = "IBUITextField"; placeholder = "Type here to add manually"; ObjectID = "gUN-Y1-gVk"; */
+"gUN-Y1-gVk.placeholder" = "Scrivi qui per aggiungere manualmente";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "h0n-D2-myl"; */
+"h0n-D2-myl.text" = "(Opzionale)";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hK7-nJ-TsP"; */
+"hK7-nJ-TsP.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Clear Conversation"; ObjectID = "i8x-Cd-BXd"; */
+"i8x-Cd-BXd.text" = "Cancella conversazione";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "jEC-11-pRB"; */
+"jEC-11-pRB.text" = "3";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "k7h-DD-seY"; */
+"k7h-DD-seY.text" = "Aiuta i tuoi contatti a trovarti.";
+
+/* Class = "IBUINavigationItem"; title = "Select Country"; ObjectID = "kpF-a6-L8N"; */
+"kpF-a6-L8N.title" = "Seleziona Paese";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "kur-Mf-oQp"; */
+"kur-Mf-oQp.text" = "Download";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "l3A-p5-a5q"; */
+"l3A-p5-a5q.text" = "Email";
+
+/* Class = "IBUIBarButtonItem"; title = "Select"; ObjectID = "lig-ga-kh5"; */
+"lig-ga-kh5.title" = "Seleziona";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "lph-OI-rGh"; */
+"lph-OI-rGh.normalTitle" = "Cambia";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "mah-ti-C5D"; */
+"mah-ti-C5D.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "oML-Vs-Xmp"; */
+"oML-Vs-Xmp.text" = "Aiuta i tuoi contatti a trovarti.";
+
+/* Class = "IBUILabel"; text = "Register Your Phone"; ObjectID = "oPe-oD-ttT"; */
+"oPe-oD-ttT.text" = "Registra il tuo telefono";
+
+/* Class = "IBUILabel"; text = "Please enter the code received and verify your account."; ObjectID = "p4J-RF-e16"; */
+"p4J-RF-e16.text" = "Inserisci il codice ricevuto e verifica il tuo account.";
+
+/* Class = "IBUIButton"; normalTitle = "Make Admin"; ObjectID = "qIL-6A-Z1I"; */
+"qIL-6A-Z1I.normalTitle" = "Rendi Amministratore";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qLJ-hV-yR2"; */
+"qLJ-hV-yR2.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "qia-Qz-2EM"; */
+"qia-Qz-2EM.text" = "Aggiungi numero di telefono";
+
+/* Class = "IBUILabel"; text = "Name Label"; ObjectID = "qn6-d4-XvT"; */
+"qn6-d4-XvT.text" = "Nome etichetta";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "qy8-C4-SJU"; */
+"qy8-C4-SJU.normalTitle" = "Invita";
+
+/* Class = "IBUILabel"; text = "0/20"; ObjectID = "rOz-w6-LXY"; */
+"rOz-w6-LXY.text" = "0/20";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "rYa-e4-XeU"; */
+"rYa-e4-XeU.placeholder" = "Solo amministratore";
+
+/* Class = "IBUILabel"; text = "Clear Conversation"; ObjectID = "rb7-9j-nry"; */
+"rb7-9j-nry.text" = "Cancella conversazione";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "rgG-9i-cjt"; */
+"rgG-9i-cjt.text" = "Nome Paese";
+
+/* Class = "IBUIButton"; normalTitle = "Add More"; ObjectID = "s8j-8X-5s8"; */
+"s8j-8X-5s8.normalTitle" = "Altri membri";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "sIP-cj-n7d"; */
+"sIP-cj-n7d.text" = "Registra numero di telefono";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "sqr-DA-qGd"; */
+"sqr-DA-qGd.text" = "Inizia conversazione";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "tCe-AM-35Q"; */
+"tCe-AM-35Q.text" = "Download";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "uj5-z3-xNL"; */
+"uj5-z3-xNL.text" = "Gli ultimi Chatlet dal server";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "wTp-f9-yAg"; */
+"wTp-f9-yAg.normalTitle" = "Modifica membri";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "x1t-ww-Blw"; */
+"x1t-ww-Blw.placeholder" = "Inserisci il tuo nome";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "yCC-9j-R7D"; */
+"yCC-9j-R7D.text" = "Etichetta";
+
+/* Class = "IBUILabel"; text = "Add your phone number to your profile, so that your colleagues can find you faster."; ObjectID = "zPe-lM-wlA"; */
+"zPe-lM-wlA.text" = "Aggiungi il numero di telefono al tuo profilo, così i tuoi colleghi potranno trovarti più facilmente.";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "zQz-q1-F8q"; */
+"zQz-q1-F8q.title" = "Io";
+

@@ -1,0 +1,6 @@
+framework module TeamchatSDK {
+  umbrella header "TeamchatSDK.h"
+
+  export *
+  module * { export * }
+}

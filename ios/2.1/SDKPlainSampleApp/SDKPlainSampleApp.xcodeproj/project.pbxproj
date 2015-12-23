@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0A317D071C200FA500DF0E66 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A317D061C200FA500DF0E66 /* main.m */; };
+		0A317D0A1C200FA500DF0E66 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A317D091C200FA500DF0E66 /* AppDelegate.m */; };
+		0A317D0D1C200FA500DF0E66 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A317D0C1C200FA500DF0E66 /* ViewController.m */; };
+		0A317D101C200FA500DF0E66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A317D0E1C200FA500DF0E66 /* Main.storyboard */; };
+		0A317D121C200FA500DF0E66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A317D111C200FA500DF0E66 /* Assets.xcassets */; };
+		0A317D151C200FA500DF0E66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A317D131C200FA500DF0E66 /* LaunchScreen.storyboard */; };
+		0A317D1F1C2011DA00DF0E66 /* TeamchatSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A317D1E1C2011DA00DF0E66 /* TeamchatSDK.framework */; settings = {ASSET_TAGS = (); }; };
+		0A317D201C2011E400DF0E66 /* TeamchatSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A317D1E1C2011DA00DF0E66 /* TeamchatSDK.framework */; };
+		0A317D211C2011E400DF0E66 /* TeamchatSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0A317D1E1C2011DA00DF0E66 /* TeamchatSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		0A317D241C20120F00DF0E66 /* TeamChat.momd in Resources */ = {isa = PBXBuildFile; fileRef = 0A317D231C20120F00DF0E66 /* TeamChat.momd */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0A317D221C2011E400DF0E66 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				0A317D211C2011E400DF0E66 /* TeamchatSDK.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0A317D021C200FA500DF0E66 /* SDKPlainSampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SDKPlainSampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A317D061C200FA500DF0E66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0A317D081C200FA500DF0E66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0A317D091C200FA500DF0E66 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0A317D0B1C200FA500DF0E66 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0A317D0C1C200FA500DF0E66 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0A317D0F1C200FA500DF0E66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0A317D111C200FA500DF0E66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0A317D141C200FA500DF0E66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0A317D161C200FA500DF0E66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A317D1E1C2011DA00DF0E66 /* TeamchatSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TeamchatSDK.framework; sourceTree = SOURCE_ROOT; };
+		0A317D231C20120F00DF0E66 /* TeamChat.momd */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TeamChat.momd; path = TeamchatSDK.framework/TeamChat.momd; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0A317CFF1C200FA500DF0E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A317D201C2011E400DF0E66 /* TeamchatSDK.framework in Frameworks */,
+				0A317D1F1C2011DA00DF0E66 /* TeamchatSDK.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A317CF91C200FA500DF0E66 = {
+			isa = PBXGroup;
+			children = (
+				0A317D041C200FA500DF0E66 /* SDKPlainSampleApp */,
+				0A317D031C200FA500DF0E66 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0A317D031C200FA500DF0E66 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0A317D021C200FA500DF0E66 /* SDKPlainSampleApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0A317D041C200FA500DF0E66 /* SDKPlainSampleApp */ = {
+			isa = PBXGroup;
+			children = (
+				0A317D1D1C2011A400DF0E66 /* Modal */,
+				0A317D1C1C20119800DF0E66 /* Framework */,
+				0A317D081C200FA500DF0E66 /* AppDelegate.h */,
+				0A317D091C200FA500DF0E66 /* AppDelegate.m */,
+				0A317D0B1C200FA500DF0E66 /* ViewController.h */,
+				0A317D0C1C200FA500DF0E66 /* ViewController.m */,
+				0A317D0E1C200FA500DF0E66 /* Main.storyboard */,
+				0A317D111C200FA500DF0E66 /* Assets.xcassets */,
+				0A317D131C200FA500DF0E66 /* LaunchScreen.storyboard */,
+				0A317D161C200FA500DF0E66 /* Info.plist */,
+				0A317D051C200FA500DF0E66 /* Supporting Files */,
+			);
+			path = SDKPlainSampleApp;
+			sourceTree = "<group>";
+		};
+		0A317D051C200FA500DF0E66 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0A317D061C200FA500DF0E66 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0A317D1C1C20119800DF0E66 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				0A317D1E1C2011DA00DF0E66 /* TeamchatSDK.framework */,
+			);
+			name = Framework;
+			sourceTree = "<group>";
+		};
+		0A317D1D1C2011A400DF0E66 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				0A317D231C20120F00DF0E66 /* TeamChat.momd */,
+			);
+			name = Modal;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0A317D011C200FA500DF0E66 /* SDKPlainSampleApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0A317D191C200FA500DF0E66 /* Build configuration list for PBXNativeTarget "SDKPlainSampleApp" */;
+			buildPhases = (
+				0A317CFE1C200FA500DF0E66 /* Sources */,
+				0A317CFF1C200FA500DF0E66 /* Frameworks */,
+				0A317D001C200FA500DF0E66 /* Resources */,
+				0A317D221C2011E400DF0E66 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SDKPlainSampleApp;
+			productName = SDKPlainSampleApp;
+			productReference = 0A317D021C200FA500DF0E66 /* SDKPlainSampleApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0A317CFA1C200FA500DF0E66 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = Robosoft;
+				TargetAttributes = {
+					0A317D011C200FA500DF0E66 = {
+						CreatedOnToolsVersion = 7.0;
+					};
+				};
+			};
+			buildConfigurationList = 0A317CFD1C200FA500DF0E66 /* Build configuration list for PBXProject "SDKPlainSampleApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0A317CF91C200FA500DF0E66;
+			productRefGroup = 0A317D031C200FA500DF0E66 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0A317D011C200FA500DF0E66 /* SDKPlainSampleApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0A317D001C200FA500DF0E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A317D151C200FA500DF0E66 /* LaunchScreen.storyboard in Resources */,
+				0A317D121C200FA500DF0E66 /* Assets.xcassets in Resources */,
+				0A317D101C200FA500DF0E66 /* Main.storyboard in Resources */,
+				0A317D241C20120F00DF0E66 /* TeamChat.momd in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0A317CFE1C200FA500DF0E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A317D0D1C200FA500DF0E66 /* ViewController.m in Sources */,
+				0A317D0A1C200FA500DF0E66 /* AppDelegate.m in Sources */,
+				0A317D071C200FA500DF0E66 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0A317D0E1C200FA500DF0E66 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A317D0F1C200FA500DF0E66 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0A317D131C200FA500DF0E66 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A317D141C200FA500DF0E66 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0A317D171C200FA500DF0E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0A317D181C200FA500DF0E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0A317D1A1C200FA500DF0E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = SDKPlainSampleApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Robosoft.SDKPlainSampleApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0A317D1B1C200FA500DF0E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = SDKPlainSampleApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Robosoft.SDKPlainSampleApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0A317CFD1C200FA500DF0E66 /* Build configuration list for PBXProject "SDKPlainSampleApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A317D171C200FA500DF0E66 /* Debug */,
+				0A317D181C200FA500DF0E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0A317D191C200FA500DF0E66 /* Build configuration list for PBXNativeTarget "SDKPlainSampleApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A317D1A1C200FA500DF0E66 /* Debug */,
+				0A317D1B1C200FA500DF0E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0A317CFA1C200FA500DF0E66 /* Project object */;
+}

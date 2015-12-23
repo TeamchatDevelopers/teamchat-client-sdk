@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Hs8-yD-yGZ"; */
+"Hs8-yD-yGZ.normalTitle" = "ठीक आहे";
+
+/* Class = "IBUIButton"; normalTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.normalTitle" = "मला पुन्हा दाखवू नका";
+
+/* Class = "IBUIButton"; selectedTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.selectedTitle" = "मला पुन्हा दाखवू नका";
+
+/* Class = "IBUILabel"; text = "This mark indicates that the chatlet has been updated. Click on new updates to check."; ObjectID = "fhQ-fe-aFr"; */
+"fhQ-fe-aFr.text" = "हि खूण chatlet अद्यतनित केले गेले आहे असे निर्देशीत करते. तपासण्यासाठीच्या नवीन सुधारणा वर क्लिक करा.";
+

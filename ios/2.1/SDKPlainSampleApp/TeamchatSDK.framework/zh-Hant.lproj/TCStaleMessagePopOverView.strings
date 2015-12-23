@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Hs8-yD-yGZ"; */
+"Hs8-yD-yGZ.normalTitle" = "好的";
+
+/* Class = "IBUIButton"; normalTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.normalTitle" = "不要再給我看";
+
+/* Class = "IBUIButton"; selectedTitle = "Don't show me again"; ObjectID = "TKr-fW-LQF"; */
+"TKr-fW-LQF.selectedTitle" = "不要再給我看";
+
+/* Class = "IBUILabel"; text = "This mark indicates that the chatlet has been updated. Click on new updates to check."; ObjectID = "fhQ-fe-aFr"; */
+"fhQ-fe-aFr.text" = "此標誌表示該chatlet已更新。點擊檢查新的更新。";
+

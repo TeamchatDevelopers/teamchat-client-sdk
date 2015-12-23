@@ -1,0 +1,9 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "Deconectare";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "Contul a fost dezactivat de administaratorul de sistem. Vă rugăm să vi le adresaţi pentru mai multe detalii. ";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "Deconectare";
+

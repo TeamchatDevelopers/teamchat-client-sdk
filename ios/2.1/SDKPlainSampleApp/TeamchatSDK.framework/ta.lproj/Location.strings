@@ -1,0 +1,18 @@
+/* Class = "IBUINavigationItem"; title = "Choose Location"; ObjectID = "7ac-Xt-c6g"; */
+"7ac-Xt-c6g.title" = "இடத்தைத் தேர்ந்தெடுக்க";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "O5s-C0-SN7"; */
+"O5s-C0-SN7.title" = "ரத்து செய்க";
+
+/* Class = "IBUIBarButtonItem"; title = "Add"; ObjectID = "Sdf-bB-DRK"; */
+"Sdf-bB-DRK.title" = "சேர்க்க";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "X8p-Zf-0iI"; */
+"X8p-Zf-0iI.normalTitle" = "அனுப்புக";
+
+/* Class = "IBUINavigationItem"; title = "Location"; ObjectID = "e1L-37-mLk"; */
+"e1L-37-mLk.title" = "இடம்";
+
+/* Class = "IBUIBarButtonItem"; title = "Send"; ObjectID = "fd7-Bm-WIR"; */
+"fd7-Bm-WIR.title" = "அனுப்புக";
+

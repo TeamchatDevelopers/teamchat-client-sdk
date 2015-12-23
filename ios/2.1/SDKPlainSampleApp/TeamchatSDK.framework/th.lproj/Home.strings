@@ -1,0 +1,174 @@
+/* Class = "IBUITextField"; placeholder = "Phone Number"; ObjectID = "0Hc-pt-RCr"; */
+"0Hc-pt-RCr.placeholder" = "หมายเลขโทรศัพท์";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "0XQ-zB-ZZX"; */
+"0XQ-zB-ZZX.text" = "ชื่อ";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "2n2-EU-HlS"; */
+"2n2-EU-HlS.text" = "ผู้ดูแลระบบ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5wi-NY-AeY"; */
+"5wi-NY-AeY.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8QW-Y9-EsJ"; */
+"8QW-Y9-EsJ.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Code"; ObjectID = "9VF-q7-FGR"; */
+"9VF-q7-FGR.text" = "รหัส";
+
+/* Class = "IBUILabel"; text = "A code has been generated and sent as an SMS to the mobile no. registered with Teamchat."; ObjectID = "22p-8S-yhn"; */
+"22p-8S-yhn.text" = "รหัสได้ถูกสร้างขึ้นและส่งข้อความไปยังหมายเลขโทรศัพท์ที่ได้ลงทะเบียนกับทีมแชทแล้ว";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "A1w-02-xlG"; */
+"A1w-02-xlG.normalTitle" = "แก้ไขสมาชิก";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CNH-Tx-QS1"; */
+"CNH-Tx-QS1.text" = "ป้ายกำกับ";
+
+/* Class = "IBUITextField"; placeholder = "Admin Only"; ObjectID = "Ce2-4F-4AN"; */
+"Ce2-4F-4AN.placeholder" = "เฉพาะผู้ดูแลระบบเท่านั้น";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "Czh-cb-3vO"; */
+"Czh-cb-3vO.text" = "อีเมล";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DPh-FZ-S53"; */
+"DPh-FZ-S53.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DUH-pn-0uV"; */
+"DUH-pn-0uV.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Register Phone Number"; ObjectID = "GlH-tn-C96"; */
+"GlH-tn-C96.text" = "ลงทะเบียนหมายเลขโทรศัพท์";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "J6a-4M-D2y"; */
+"J6a-4M-D2y.normalTitle" = "ปุ่ม";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KAV-bd-GfY"; */
+"KAV-bd-GfY.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Start Conversation"; ObjectID = "MNy-zF-sQk"; */
+"MNy-zF-sQk.text" = "เริ่มต้นบทสนทนา";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "Mwi-PY-8id"; */
+"Mwi-PY-8id.normalTitle" = "แก้ไขสมาชิก";
+
+/* Class = "IBUILabel"; text = "Group Admin"; ObjectID = "ORh-J7-Bbf"; */
+"ORh-J7-Bbf.text" = "ผู้ดูแลระบบของกลุ่ม";
+
+/* Class = "IBUILabel"; text = "Verify Your Phone"; ObjectID = "PXX-P6-Tba"; */
+"PXX-P6-Tba.text" = "ตรวจสอบโทรศัพท์ของคุณ";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "Paf-xd-SBS"; */
+"Paf-xd-SBS.normalTitle" = "ตรวจสอบ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "RBk-rZ-wG9"; */
+"RBk-rZ-wG9.text" = "ป้ายกำกับ";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Xkc-pY-Dpi"; */
+"Xkc-pY-Dpi.text" = "ชื่อ";
+
+/* Class = "IBUITextField"; placeholder = "Enter Code"; ObjectID = "Y9r-oj-leX"; */
+"Y9r-oj-leX.placeholder" = "ใส่รหัส";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YNz-Ko-PQg"; */
+"YNz-Ko-PQg.text" = "ป้ายกำกับ";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "Ydd-tb-sdI"; */
+"Ydd-tb-sdI.normalTitle" = "เปลี่ยนแปลง";
+
+/* (No Commment) */
+"YfA-lF-ZXF.headerTitle" = "แชทเลท";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Yfd-1r-Juh"; */
+"Yfd-1r-Juh.text" = "ป้ายกำกับ";
+
+/* Class = "IBUITextField"; placeholder = "Group Name"; ObjectID = "Zdx-24-vAz"; */
+"Zdx-24-vAz.placeholder" = "ชื่อกลุ่ม";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "aAs-nD-Ygu"; */
+"aAs-nD-Ygu.normalTitle" = "ส่งรหัสอีกครั้ง";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "aLK-CQ-1q2"; */
+"aLK-CQ-1q2.title" = "การตั้งค่า";
+
+/* Class = "IBUILabel"; text = "The latest Chatlets from the server"; ObjectID = "bHp-pX-pfX"; */
+"bHp-pX-pfX.text" = "แชทเลทล่าสุดจากผู้ให้บริการ";
+
+/* Class = "IBUILabel"; text = "Add Phone Number"; ObjectID = "bRG-u0-p7D"; */
+"bRG-u0-p7D.text" = "เพิ่มหมายเลขโทรศัพท์";
+
+/* Class = "IBUILabel"; text = "Phone number not added"; ObjectID = "bWg-jK-IO8"; */
+"bWg-jK-IO8.text" = "หมายเลขโทรศัพท์ไม่ได้ถูกเพิ่ม";
+
+/* Class = "IBUINavigationItem"; title = "New Group"; ObjectID = "bbE-DM-UVK"; */
+"bbE-DM-UVK.title" = "กลุ่มใหม่";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "bsk-ym-n97"; */
+"bsk-ym-n97.normalTitle" = "เปลี่ยนแปลง";
+
+/* Class = "IBUIButton"; normalTitle = "More Members"; ObjectID = "cOZ-F0-aZN"; */
+"cOZ-F0-aZN.normalTitle" = "สมาชิกมากขึ้น";
+
+/* Class = "IBUILabel"; text = "Delete Conversation & Leave"; ObjectID = "cz7-RD-0Bv"; */
+"cz7-RD-0Bv.text" = "ลบบทสนทนา &  ออก";
+
+/* Class = "IBUIButton"; normalTitle = "Add Now"; ObjectID = "dTW-hR-nZh"; */
+"dTW-hR-nZh.normalTitle" = "เพิ่มตอนนี้";
+
+/* Class = "IBUINavigationItem"; title = "Group Members"; ObjectID = "fje-bn-aiv"; */
+"fje-bn-aiv.title" = "สมาชิกกลุ่ม";
+
+/* Class = "IBUITextField"; placeholder = "Enter your name"; ObjectID = "g6U-fu-7KZ"; */
+"g6U-fu-7KZ.placeholder" = "ใส่ชื่อของคุณ";
+
+/* Class = "IBUILabel"; text = "(Optional)"; ObjectID = "h0n-D2-myl"; */
+"h0n-D2-myl.text" = "(เป็นทางเลือก)";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "jEC-11-pRB"; */
+"jEC-11-pRB.text" = "3";
+
+/* Class = "IBUILabel"; text = "Help your contacts in finding you."; ObjectID = "k7h-DD-seY"; */
+"k7h-DD-seY.text" = "ช่วยผู้ติดต่อของคุณในการค้นหาคุณ";
+
+/* Class = "IBUINavigationItem"; title = "Select Country"; ObjectID = "kpF-a6-L8N"; */
+"kpF-a6-L8N.title" = "เลือกประเทศ";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "l3A-p5-a5q"; */
+"l3A-p5-a5q.text" = "อีเมล";
+
+/* Class = "IBUILabel"; text = "Register Your Phone"; ObjectID = "oPe-oD-ttT"; */
+"oPe-oD-ttT.text" = "ลงทะเบียนโทรศัพท์ของคุณ";
+
+/* Class = "IBUILabel"; text = "Please enter the code received and verify your account."; ObjectID = "p4J-RF-e16"; */
+"p4J-RF-e16.text" = "กรุณาใส่รหัสที่คุณได้รับและยืนยันบัญชีของคุณ";
+
+/* Class = "IBUIButton"; normalTitle = "Make Admin"; ObjectID = "qIL-6A-Z1I"; */
+"qIL-6A-Z1I.normalTitle" = "แต่งตั้งผู้ดูแลระบบ";
+
+/* Class = "IBUILabel"; text = "Name Label"; ObjectID = "qn6-d4-XvT"; */
+"qn6-d4-XvT.text" = "ตั้งชื่อป้ายกำกับ";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "qy8-C4-SJU"; */
+"qy8-C4-SJU.normalTitle" = "เชิญชวน";
+
+/* Class = "IBUILabel"; text = "0/20"; ObjectID = "rOz-w6-LXY"; */
+"rOz-w6-LXY.text" = "0/20";
+
+/* Class = "IBUILabel"; text = "Country Name"; ObjectID = "rgG-9i-cjt"; */
+"rgG-9i-cjt.text" = "ตั้ชื่อประเทศ";
+
+/* Class = "IBUIButton"; normalTitle = "Add More"; ObjectID = "s8j-8X-5s8"; */
+"s8j-8X-5s8.normalTitle" = "สมาชิกมากขึ้น";
+
+/* Class = "IBUILabel"; text = "Download"; ObjectID = "tCe-AM-35Q"; */
+"tCe-AM-35Q.text" = "ดาวน์โหลด";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Members"; ObjectID = "wTp-f9-yAg"; */
+"wTp-f9-yAg.normalTitle" = "แก้ไขสมาชิก";
+
+/* Class = "IBUILabel"; text = "Add your phone number to your profile, so that your colleagues can find you faster."; ObjectID = "zPe-lM-wlA"; */
+"zPe-lM-wlA.text" = "ใส่หมายเลขโทรศัพท์ของคุณในโปรไฟล์ของคุณ เพื่อที่เพื่อนร่วมงานของคุณสามารถค้นหาคุณได้เร็วขึ้น";
+
+/* Class = "IBUINavigationItem"; title = "Me"; ObjectID = "zQz-q1-F8q"; */
+"zQz-q1-F8q.title" = "ฉัน";
+

@@ -1,0 +1,7 @@
+/* Class = "IBUILabel"; text = "Only Admin can post new messages to this group"; ObjectID = "r2p-aT-ujS"; */
+"r2p-aT-ujS.text" = "इस समूह में केवल व्यवस्थापक नए संदेश भेज सकते हैं
+";
+
+/* Class = "IBUILabel"; text = "Only Admin can post new messages to this group"; ObjectID = "xk7-rs-MvA"; */
+"xk7-rs-MvA.text" = "केवल एडमिन को इस ग्रूप में नये मेसेज पोस्ट करने की मंज़ूरी है";
+

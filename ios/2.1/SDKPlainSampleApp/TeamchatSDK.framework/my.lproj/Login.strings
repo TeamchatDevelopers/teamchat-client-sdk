@@ -1,0 +1,72 @@
+/* Class = "IBUILabel"; text = "Get Started"; ObjectID = "8BV-ie-Nik"; */
+"8BV-ie-Nik.text" = " စတင္ၾကစို႔";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "AAE-2X-gKJ"; */
+"AAE-2X-gKJ.title" = "ျပဳလုပ္ျပီးျခင္း";
+
+/* Class = "IBUILabel"; text = "Verification Code still not working ?"; ObjectID = "ACh-6C-qGT"; */
+"ACh-6C-qGT.text" = "အသိအမွတ္ျပဳစကားဝွက္သည္ အက်ိဳးသက္ေရာက္မွဳမရွိေသးပါ။";
+
+/* Class = "IBUILabel"; text = "We've sent you a \\n verification code on your email"; ObjectID = "M8u-r1-snF"; */
+"M8u-r1-snF.text" = "ကြ်ႏု္ပ္တို႔မွ \\n အသိအမွတ္ျပဳ စကားဝွက္တစ္ခုကို သင့္အီးေမးလ္သို႔ေပးပို႔ေပး ျပီးျဖစ္သည္";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MzN-Ru-rRG"; */
+"MzN-Ru-rRG.text" = "အမည္သမုတ္ေပးျခင္း";
+
+/* Class = "IBUIButton"; normalTitle = "Resend Code"; ObjectID = "Nbf-SB-TvT"; */
+"Nbf-SB-TvT.normalTitle" = "စကားဝွက္ျပန္လည္ပို႔ေပးျခင္း";
+
+/* Class = "IBUILabel"; text = ":("; ObjectID = "QTt-0M-T2J"; */
+"QTt-0M-T2J.text" = ":(";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Rcs-MV-G9E"; */
+"Rcs-MV-G9E.normalTitle" = "ေ႔ရွသို႔";
+
+/* Class = "IBUILabel"; text = "The code might have expired or there could be some temporary problem. Please try again in some time"; ObjectID = "Seb-L0-KEj"; */
+"Seb-L0-KEj.text" = "စကားဝွက္သက္တမ္းကုန္ဆံုးျခင္း သို႔မဟုတ္ အျခားေရတိုျပႆနာမ်ားရွိေန ျခင္းေၾကာင္႔ျဖစ္တတ္သည္။ ေက်းဇူးျပဳ၍ မၾကာမီ ေနာက္တစ္ေခါက္ႀကိဳးစားၾကည့္ပါ။";
+
+/* Class = "IBUIButton"; normalTitle = "Verify"; ObjectID = "X9W-NJ-tQ8"; */
+"X9W-NJ-tQ8.normalTitle" = "အတည္ျပဳျခင္း";
+
+/* Class = "IBUILabel"; text = "If you don't see it in your inbox, please also check other email folders (junk, social etc)"; ObjectID = "XlL-Y7-ifn"; */
+"XlL-Y7-ifn.text" = "အကယ္၍ သင္၏စာလက္ခံပံုးတြင္မေတြ႔ရွိပါက ေက်းဇူးျပဳ၍ သင့္အီးေမးလ္ထဲရွိ အျခားစာပံုး ( junk အမွိဳက္စာပံုး| လူတကာပို႔စာလက္ခံပံုးစသည္ျဖင္႔) ထဲတြင္စစ္ေဆးၾကည့္ပါ ";
+
+/* Class = "IBUILabel"; text = "Please make sure the email address is typed correctly."; ObjectID = "gAx-Q8-PwB"; */
+"gAx-Q8-PwB.text" = "ေက်းဇူးျပဳ၍ အီးေမးလ္လိပ္စာကို မွန္ကန္စြာရိုက္ထည့္ပါ";
+
+/* Class = "IBUILabel"; text = "Enter it below"; ObjectID = "hrc-hP-h3o"; */
+"hrc-hP-h3o.text" = "ေအာက္တြင္ျဖည့္သြင္းပါ";
+
+/* Class = "IBUIButton"; normalTitle = "Terms & Conditions"; ObjectID = "iLj-5b-5Na"; */
+"iLj-5b-5Na.normalTitle" = "စည္းမ်ဥ္းစည္းကမ္းမ်ား & သတ္မွတ္ခ်က္မ်ား";
+
+/* Class = "IBUIButton"; normalTitle = "GET STARTED"; ObjectID = "j2f-n5-pjB"; */
+"j2f-n5-pjB.normalTitle" = "စတင္ၾကစို႔";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "nNT-Uq-9hL"; */
+"nNT-Uq-9hL.normalTitle" = "ကိုယ္ေရးကိုယ္တာထိန္းခ်ဳပ္ေပးျခင္း ေပၚလစီ";
+
+/* Class = "IBUIButton"; normalTitle = "Try Again"; ObjectID = "r6S-e4-9Om"; */
+"r6S-e4-9Om.normalTitle" = "ထပ္မံၾကိဳးစားၾကည့္ပါ";
+
+/* Class = "IBUITextField"; placeholder = "Your work email"; ObjectID = "rZD-vY-pnD"; */
+"rZD-vY-pnD.placeholder" = "သင့္အလုပ္အီးေမးလ္";
+
+/* Class = "IBUIButton"; normalTitle = "Wrong verification code"; ObjectID = "sz9-KL-dEb"; */
+"sz9-KL-dEb.normalTitle" = "မွားယြင္းေသာ အသိအမွတ္ျပဳစကားဝွက္";
+
+/* Class = "IBUILabel"; text = "Verification"; ObjectID = "ucp-WZ-JEd"; */
+"ucp-WZ-JEd.text" = "အသိအမွတ္ျပဳျခင္း";
+
+/* Class = "IBUINavigationItem"; title = "Select Environment"; ObjectID = "udG-z7-lH6"; */
+"udG-z7-lH6.title" = "ပတ္ဝန္းက်င္ေရြးခ်ယ္ျခင္း";
+
+/* Class = "IBUITextField"; placeholder = "Verification code"; ObjectID = "v5b-rX-qcw"; */
+"v5b-rX-qcw.placeholder" = "အသိအမွတ္ျပဳစကားဝွက္";
+
+/* Class = "IBUILabel"; text = "xyz@abc.com"; ObjectID = "wIi-Iy-FyK"; */
+"wIi-Iy-FyK.text" = "xyz@abc.com";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "yKS-cD-PCJ"; */
+"yKS-cD-PCJ.title" = "ပယ္ဖ်က္ျခင္း";
+

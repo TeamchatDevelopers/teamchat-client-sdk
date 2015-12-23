@@ -1,0 +1,18 @@
+/* Class = "IBUINavigationItem"; title = "Choose Location"; ObjectID = "7ac-Xt-c6g"; */
+"7ac-Xt-c6g.title" = "লোকেশন নির্বাচন করুন";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "O5s-C0-SN7"; */
+"O5s-C0-SN7.title" = "বাতিল করুন";
+
+/* Class = "IBUIBarButtonItem"; title = "Add"; ObjectID = "Sdf-bB-DRK"; */
+"Sdf-bB-DRK.title" = "যোগ করুন";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "X8p-Zf-0iI"; */
+"X8p-Zf-0iI.normalTitle" = "পাঠিয়ে দিন";
+
+/* Class = "IBUINavigationItem"; title = "Location"; ObjectID = "e1L-37-mLk"; */
+"e1L-37-mLk.title" = "লোকেশন";
+
+/* Class = "IBUIBarButtonItem"; title = "Send"; ObjectID = "fd7-Bm-WIR"; */
+"fd7-Bm-WIR.title" = "পাঠিয়ে দিন";
+

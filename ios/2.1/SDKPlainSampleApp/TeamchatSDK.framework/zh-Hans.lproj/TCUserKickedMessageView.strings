@@ -1,0 +1,6 @@
+/* Class = "IBUILabel"; text = "Only Admin can post new messages to this group"; ObjectID = "r2p-aT-ujS"; */
+"r2p-aT-ujS.text" = "仅管理员在此群可发布新消息";
+
+/* Class = "IBUILabel"; text = "Only Admin can post new messages to this group"; ObjectID = "xk7-rs-MvA"; */
+"xk7-rs-MvA.text" = "此符号表明短聊已更新。点击“新更新”来查看。";
+

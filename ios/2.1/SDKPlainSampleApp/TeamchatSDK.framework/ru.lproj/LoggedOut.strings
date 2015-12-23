@@ -1,0 +1,12 @@
+/* Class = "IBUINavigationItem"; title = "Logged Out"; ObjectID = "8dJ-PN-mYt"; */
+"8dJ-PN-mYt.title" = "Вышел из";
+
+/* Class = "IBUILabel"; text = "Your account may have been disabled by your system administrator. Please check with them for more details."; ObjectID = "aob-yO-HTK"; */
+"aob-yO-HTK.text" = "Ваш аккаунт был отключен системным администратором. Свяжитесь с ним для более подробных деталей, пожалуйста.";
+
+/* Class = "IBUILabel"; text = "Logged Out"; ObjectID = "sro-mb-ZK6"; */
+"sro-mb-ZK6.text" = "Вышел из";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "wen-sr-Zeo"; */
+"wen-sr-Zeo.text" = "ИЛИ";
+

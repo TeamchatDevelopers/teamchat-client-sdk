@@ -1,0 +1,9 @@
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "Esy-YC-gJ8"; */
+"Esy-YC-gJ8.normalTitle" = "Hoàn thành";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "FeV-MO-MpT"; */
+"FeV-MO-MpT.normalTitle" = "Hủy bỏ";
+
+/* Class = "IBUIButton"; normalTitle = "Add Caption"; ObjectID = "cAR-8i-3wl"; */
+"cAR-8i-3wl.normalTitle" = "Thêm chú thích";
+

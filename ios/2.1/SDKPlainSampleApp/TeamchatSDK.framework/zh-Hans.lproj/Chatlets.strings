@@ -1,0 +1,51 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4uo-ge-DoM"; */
+"4uo-ge-DoM.text" = "标签";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "6nj-AA-xcb"; */
+"6nj-AA-xcb.title" = "完成";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "8d9-Ys-o3D"; */
+"8d9-Ys-o3D.title" = "取消";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "869-Dz-tqI"; */
+"869-Dz-tqI.text" = "标签";
+
+/* Class = "IBUINavigationItem"; title = "Select Options"; ObjectID = "IOH-n1-xsa"; */
+"IOH-n1-xsa.title" = "选择选项";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "P6l-8h-mm4"; */
+"P6l-8h-mm4.text" = "标签";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "SWy-WF-fog"; */
+"SWy-WF-fog.text" = "标签";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Xb0-hw-M77"; */
+"Xb0-hw-M77.text" = "标题";
+
+/* Class = "IBUINavigationItem"; title = "Contact Info"; ObjectID = "eDP-RW-rr9"; */
+"eDP-RW-rr9.title" = "联系人信息";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "h6K-Zp-ZdR"; */
+"h6K-Zp-ZdR.title" = "取消";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hd2-yb-08Y"; */
+"hd2-yb-08Y.text" = "标签";
+
+/* Class = "IBUIBarButtonItem"; title = "Post"; ObjectID = "ndt-ry-nei"; */
+"ndt-ry-nei.title" = "发布";
+
+/* Class = "IBUINavigationItem"; title = "Chatlets"; ObjectID = "oVw-sV-m1g"; */
+"oVw-sV-m1g.title" = "短聊";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qBt-ao-fGe"; */
+"qBt-ao-fGe.text" = "标签";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qFO-Ns-Rq5"; */
+"qFO-Ns-Rq5.text" = "标签";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "tKa-Fi-Jdq"; */
+"tKa-Fi-Jdq.text" = "标签";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ty9-lK-miM"; */
+"ty9-lK-miM.text" = "标题";
+

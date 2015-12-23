@@ -1,0 +1,27 @@
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "6nj-AA-xcb"; */
+"6nj-AA-xcb.title" = "Pronto";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "8d9-Ys-o3D"; */
+"8d9-Ys-o3D.title" = "Cancelar";
+
+/* Class = "IBUINavigationItem"; title = "Select Options"; ObjectID = "IOH-n1-xsa"; */
+"IOH-n1-xsa.title" = "Selecionar Opções";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "P6l-8h-mm4"; */
+"P6l-8h-mm4.text" = "Etiqueta";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Xb0-hw-M77"; */
+"Xb0-hw-M77.text" = "Título";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hd2-yb-08Y"; */
+"hd2-yb-08Y.text" = "Etiqueta";
+
+/* Class = "IBUIBarButtonItem"; title = "Post"; ObjectID = "ndt-ry-nei"; */
+"ndt-ry-nei.title" = "Publicação";
+
+/* Class = "IBUINavigationItem"; title = "Chatlets"; ObjectID = "oVw-sV-m1g"; */
+"oVw-sV-m1g.title" = "Chatlets";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ty9-lK-miM"; */
+"ty9-lK-miM.text" = "Título";
+

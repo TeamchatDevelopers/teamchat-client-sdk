@@ -1,0 +1,48 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4uo-ge-DoM"; */
+"4uo-ge-DoM.text" = "Etichetă";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "6nj-AA-xcb"; */
+"6nj-AA-xcb.title" = "Terminat";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "8d9-Ys-o3D"; */
+"8d9-Ys-o3D.title" = "Întrerupe";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "869-Dz-tqI"; */
+"869-Dz-tqI.text" = "Etichetă";
+
+/* Class = "IBUINavigationItem"; title = "Select Options"; ObjectID = "IOH-n1-xsa"; */
+"IOH-n1-xsa.title" = "Selectează opţiunile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "P6l-8h-mm4"; */
+"P6l-8h-mm4.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "SWy-WF-fog"; */
+"SWy-WF-fog.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Xb0-hw-M77"; */
+"Xb0-hw-M77.text" = "Titlu";
+
+/* Class = "IBUINavigationItem"; title = "Contact Info"; ObjectID = "eDP-RW-rr9"; */
+"eDP-RW-rr9.title" = "Informaţii de contact";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "h6K-Zp-ZdR"; */
+"h6K-Zp-ZdR.title" = "Întrerupe";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hd2-yb-08Y"; */
+"hd2-yb-08Y.text" = "Etichetă";
+
+/* Class = "IBUIBarButtonItem"; title = "Post"; ObjectID = "ndt-ry-nei"; */
+"ndt-ry-nei.title" = "Postează";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qBt-ao-fGe"; */
+"qBt-ao-fGe.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qFO-Ns-Rq5"; */
+"qFO-Ns-Rq5.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "tKa-Fi-Jdq"; */
+"tKa-Fi-Jdq.text" = "Etichetă";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ty9-lK-miM"; */
+"ty9-lK-miM.text" = "Titlu";
+
